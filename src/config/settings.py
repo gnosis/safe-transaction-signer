@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "polls.apps.PollsConfig",
+    "submit_signature.apps.SubmitSignatureConfig",
 ]
 
 MIDDLEWARE = [
